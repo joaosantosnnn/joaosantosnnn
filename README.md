@@ -1,12 +1,17 @@
+<img src="/C:\/João.jpg" style="margin:10px;" width="100%" alt="ilustração de um computador" >
+
 <h2 align="left">Olá! Sejam bem vindos ao meu Github!</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" style="margin-left:10px;" width="80" height="80" align="right">
 
 <p>
   <br />
-  ✌ Fala! <strong>João</strong> aqui. Sou Desenvolvedor Júnior, e este é meu github simplão 😃<br>
+  ✌ Fala! <strong>João</strong> aqui. Sou Desenvolvedor Júnior, e este é meu github simplão!😃<br>
   🦄 Para acessar meu portfólio de projetos clique aqui
   > <a href="[https://github.com/luannsr12/portfolio](https://github.com/joaosantosnnn)">PORTFÓLIO</a>  <
+                                                                                                          
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 </p>
 
 ###
