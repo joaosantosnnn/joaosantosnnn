@@ -21,7 +21,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/joaosantosnnn/joaosantosnnn/output/snake.svg" alt="Snake animation" />
 
 ###
 
